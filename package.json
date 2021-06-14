@@ -17,8 +17,8 @@
 	},
 	"keywords": [],
 	"dependencies": {
-		"doge-config": "^0.3.0-3",
-		"nodesite.eu": "^1.2.0-9",
-		"socket.io": "^4.1.2"
+		"nodesite.eu-local": "^1.2.0",
+		"nslibmgr": "^0.1.2",
+		"pkg": "^5.2.1"
 	}
 }
