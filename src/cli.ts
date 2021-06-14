@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-require('.');
+import { init } from './init';
+
+init();
